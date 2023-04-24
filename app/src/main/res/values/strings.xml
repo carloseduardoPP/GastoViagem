@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GastoViagem</string>
+    <string name="etDistancia">Distancia</string>
+    <string name="tvTotal_de_quilometros">Total de quilometros</string>
+    <string name="etPreco">Preco</string>
+    <string name="tvPreco_por_litro">Preco por Litro</string>
+    <string name="etAutonomia">Autonomia</string>
+    <string name="tvKms_por_litro">KM`s por Litro</string>
+    <string name="tvSeu_gasto_total_ser_de">Seu gasto total será de:</string>
+    <string name="t_r_0">R$ 0</string>
+    <string name="bt_calcular">Calcular</string>
+    <string name="exception">Preencha todos os campos.</string>
+</resources>
